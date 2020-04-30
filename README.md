@@ -1,16 +1,6 @@
-# christmas_theme_app
+# A christmassy app
 
-A new Flutter application.
+My personal flutter project - frontend 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Motivation: 
+I just happen to love the holiday season. This app includes my personal UI design, some interactive screens that you can play around with. This is meant to be an inspiration, will be further developed in the future. All feedbacks and comments to improve the app are welcomed. 
