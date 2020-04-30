@@ -1,0 +1,79 @@
+name: christmas_theme_app
+description: A new Flutter application.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flare_flutter: ^1.8.3
+
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_launcher_icons: ^0.7.3
+  seekbar: ^0.0.2
+  flutter_circular_slider : any
+
+
+
+flutter_icons:
+  image_path: "icon/icon_christmasApp.jpg"
+  android: true
+  ios: "launcher_icon"
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+
+    # Animations
+    - assets/flare/house_folk.flr
+    - assets/flare/house_folk2.flr
+    - assets/flare/bus.flr
+    - assets/flare/metro.flr
+    - assets/flare/train.flr
+    - assets/flare/matt.flr
+    - assets/flare/martin.flr
+    - assets/flare/snowing_flare.flr
+    - icon/icon_christmasApp.jpg
+    - assets/santa_claus.png
+    - assets/christmas_card.png
+    - assets/christmas_song_pic.jpg
+    - assets/new_year_countdown.png
+    - icon/custom_menu_icon.png
+    - assets/snow_effect.png
+    - assets/mr_santa.png
+    - assets/card1.png
+    - assets/card2.jpg
+    - assets/card3.jpg
+    - assets/card4.png
+    - assets/card5.jpg
+    # An image asset can refer to one or more resolution-specific "variants", see
+    # https://flutter.dev/assets-and-images/#resolution-aware.
+
+    # For details regarding adding assets from package dependencies, see
+    # https://flutter.dev/assets-and-images/#from-packages
+
+    # To add custom fonts to your application, add a fonts section here,
+    # in this "flutter" section. Each entry in this list should have a
+    # "family" key with the font family name, and a "fonts" key with a
+    # list giving the asset and other descriptors for the font. For
+    # example:
+
+  fonts:
+    - family: SacramentoRegular
+      fonts:
+        - asset: assets/fonts/Sacramento-Regular.ttf
+
+
+  # For details regarding fonts from package dependencies,
+  # see https://flutter.dev/custom-fonts/#from-packages
